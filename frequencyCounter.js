@@ -73,20 +73,3 @@ console.log(sameFrequencyImproved(182, 281)); // true
 console.log(sameFrequencyImproved(34, 14)); // false
 console.log(sameFrequencyImproved(3589578, 5879385)); // true
 console.log(sameFrequencyImproved(22, 222)); // false
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
