@@ -74,10 +74,3 @@ class SinglyLinkedList {
 }
 
 module.exports = SinglyLinkedList;
-
-// const lList = new SinglyLinkedList();
-// lList.push("HI");
-// // lList.push("Bye");
-// console.log(lList);
-// lList.pop();
-// console.log(lList);
